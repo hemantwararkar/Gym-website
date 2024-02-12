@@ -152,7 +152,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .home {
-    background: url(../images/home.jpg) no-repeat;
+    background: url(images/home.jpg);
     min-height: 110vh;
     display: flex;
     align-items: center;
@@ -289,7 +289,7 @@ html::-webkit-scrollbar-thumb {
 
 
 .counter {
-    background: url(../images/bg.jpg) no-repeat;
+    background: url(images/bg.jpg);
     background-attachment: fixed;
 }
 
@@ -430,7 +430,7 @@ html::-webkit-scrollbar-thumb {
 
 
 .register {
-    background: url(../images/bg.jpg) no-repeat;
+    background: url(images/bg.jpg);
     background-size: cover;
     text-align: center;
 }
